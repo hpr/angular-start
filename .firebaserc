@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-start-22747": {
+      "hosting": {
+        "start": [
+          "angular-start-22747"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-start-22747"
+  }
+}
